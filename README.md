@@ -1,0 +1,2 @@
+# seminariointeligencia
+repo de seminario
